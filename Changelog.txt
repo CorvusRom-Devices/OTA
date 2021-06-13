@@ -1,0 +1,103 @@
+====================
+     06-13-2021
+====================
+
+* frameworks/base
+be359c5  PixelProps: Update redfin fingerprint to RQ3A.210605.005
+601a301  Fix ambient information which did not get for locking refresh rate
+a290f34  Added to enable/disable log for DisplayModeDirector
+35f585e  DO NOT MERGE "Fix the ambient lux which did not update for blocking zone"
+0ddce8c  DO NOT MERGE "Allow DeviceConfig to change display settings for high zone"
+2a51b7e  DO NOT MERGE "Set fixed fps when ambient or display brightness is high"
+bad0af7  DO NOT MERGE Revert "Set fixed fps when ambient or display brightness is high"
+672e8ef  DO NOT MERGE Revert "Allow DeviceConfig to change display settings for high zone"
+8e3e9ed  DO NOT MERGE Revert "Fix the ambient lux which did not update for blocking zone"
+d0d339b  Fix the ambient lux which did not update for blocking zone
+2366be2  Allow DeviceConfig to change display settings for high zone
+61678f4  Set fixed fps when ambient or display brightness is high
+a3518a2  Merge tag 'android-11.0.0_r38' into HEAD
+b1620e8  Revert "Fix 2tap2wake after Ambient Pulsing on some devices"
+98e4586  Allow carriers to configure RTT while roaming
+2fcf9b7  Enabled TEMP_NOT_METERED support for carriers
+28f0909  Temporary fix to prevent TEMPORARILY_NOT_METERED leak
+2e35afa  SystemUI: Move brightness to bottom and show in quick qs
+
+
+* packages/apps/RavenLair
+30aa1d9  Lair: reticker [2/2]
+
+
+* packages/apps/Settings
+26606c5  Settings: Conditionally enable multi-user avatar
+3bbe37e  Toggles: Sanitize ordering in Display settings
+2543e69  Icons: Add missing icons all around the settings
+1738fb4  Corvusify Settings
+
+
+* packages/services/Telephony
+5b62d3f  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* vendor/corvus
+a8ee5af  Add some new fonts!
+
+
+* vendor/themes
+3152df5  Dont set Search bar color here
+
+====================
+     06-12-2021
+====================
+
+* build/make
+d3c16df  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* build/soong
+95d5aaa  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* frameworks/av
+b7de41d  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* frameworks/native
+a0d5a65  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* frameworks/opt/net/wifi
+5a9939e  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* frameworks/opt/telephony
+cd46f23  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* packages/apps/Contacts
+4ca7e9d  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* packages/apps/Launcher3
+922c15b  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* packages/apps/Nfc
+5c89936  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* packages/apps/PermissionController
+2e90336  Merge tag 'android-11.0.0_r38' into HEAD
+
+
+* system/bt
+52f1c2d  Merge tag 'android-11.0.0_r38' into HEAD
+
+====================
+     06-11-2021
+====================
+====================
+     06-10-2021
+====================
+====================
+     06-09-2021
+====================
