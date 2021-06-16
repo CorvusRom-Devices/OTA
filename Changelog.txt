@@ -17,7 +17,10 @@ Corvus v16.5 - Alpha Centauri
 - Added Force Stop option to app notification
 - Changed Stock QS Tile style to stroke
 - Added QS Header Brightness Slider
+- Linked Screenshot sound with Sound Profile
 - Fixed Lockscreen wallpaper bug
+- Attempt to fix Bubble SysUI crash
+- Bring back Delete button to Screenshot notifications
 - Added back missing icons in Settings
 - Realigned toggles to maintain aesthetics
 - Fresh new set of Simplistic Material Wallpapers
