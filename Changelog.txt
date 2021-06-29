@@ -1,3 +1,26 @@
+============================
+Corvus v16.6 - Paradox
+=============================
+- Added new QS Tile styles
+- Redesigned Brightness Slider (Looks like OOS)
+- Recolour Volume Panel with Alpha-Accent colours
+- Added toggle for QQS Brightness Slider
+- Remove Reticker (Caused issues with QS Panel and SystemUI reboots on notification clicks)
+- Added notification count badge
+- Brought back volume key music seek control toggle to raven's lair
+- Fixed bubble notification system freezes
+- Added statusbar Clock to QS Header 
+- Customisation to Clock affects the QS Header clock too
+- (Exclusive) Added Music Equaliser to Corvus settings
+- Fixed Active/Inactive QS Colours
+- Switched Crash log from Dogbin (dead) to hastebin
+- Fixed 3-button navigation bar assistant animation
+- Added gradual fade animation to QS tile toggles
+- Make Gesture pill a bit thicker like IOS
+- Spoof Google photos for Unlimited Original Quality storage
+- Added instant App lock option
+- Battery meter brought down to QQS Header
+
 =============================
 Corvus v16.5 - Alpha Centauri
 =============================
