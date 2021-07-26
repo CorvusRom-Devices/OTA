@@ -1,6 +1,54 @@
 ============================
+Corvus v16.7 - Obsidian
+============================
+Merged android-11.0.0_r39 SP
+ • Added New QS Header dateview
+ • Added QS custom Header images (OmniStyles)
+ • Added new Corvus header pack
+ • Added QS Panel weather
+ • Added Secure lockscreen QS
+ • Added Faceunlock animation
+ • Added HW keys customisation support
+ • Added support for HW home button wakeup
+ • Re-Implemented the whole FOD with the latest los changes
+ • Massive improvements in FOD
+ • Added new FOD animations
+ • Added new FOD Pressed layer (light yellow)
+ • Added new FOD Icons for OnePlus 8 series
+ • Added support to allow user to disable FOD night light when active
+ • Added FOD system overlays
+ • Added FOD Icon Animations (thanks to SSOS and Zaid)
+ • Added Corvus FOD Icon
+ • Re-Added Reticker (Fixed QS Panel glitch, might still cause sysui restart)
+ • Added Settings to hide notch
+ • Reimplemented force full screen apps settings
+ • Fixed vibration feedback on Fingerprint error/success
+ • Added toggle to enable media art background in QS media player
+ • Added toggle for colored statusbar icons
+ • Nuked smart charging
+ • Added full width to Battery graph view
+ • Added toggle for Notification/Ring vibration in Audio settings
+ • Improvements to System Blur
+ • Added new set of Fonts
+ • Added Pixel Offline charging animation
+ • Added Lockscreen Blur
+ • Added partial screenshot toggle
+ • Added power button press fingerprint toggle
+ • Added Optional screenshot QS Tile
+ • Added new Clockstyles (Fluid, SSOS, Cronos, Clockertino, IDE etc)
+ • Updated webview providers
+ • Added new FaceUnlock from Pixel Experience
+ • Extended FaceUnlock to AppLock
+ • Fixed wrong QS reboot to recovery tile message
+ • Added new Navbar styles
+ • Nuked Equaliser (unstable in most of the devices)
+ • Added More sassy wallpapers
+ • Fixed avatar click action on settings searchbar
+ • Bug fixes and overall performance improvements
+
+============================
 Corvus v16.6 - Paradox
-=============================
+============================
 - Added new QS Tile styles
 - Redesigned Brightness Slider (Looks like OOS)
 - Recolour Volume Panel with Alpha-Accent colours
