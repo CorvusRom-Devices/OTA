@@ -1,4 +1,38 @@
 ============================
+Corvus v16.8 - Avalon
+============================
+Merged android-11.0.0_r40 SP
+ • Added 2 new Settings Dashboard Styles (Ravenlair -> Miscellaneous)
+ • Re-colored Settings dashboard icons   
+ • Added Custom Spring/Elastic animation to Settings Dashboard
+ • Added new animation on Corvus Settings Panel in Settings
+ • Added QS Panel Opacity (RavenLair -> QuickSettings)
+ • Added Notifications Opacity (RavenLair -> Notifications)
+ • Added new QS status icons background toggle (RavenLair -> QuickSettings)
+ • Redesigned default Volume Panel 
+ • Added Volume Panel Plugins (RavenLair -> hardware -> Buttons)
+ • Added Support for setting App volume in Volume Panels
+ • Reworked Traffic Indicators (Includes Upload, Download and Dynamic modes)
+ • Updated QS Header date style to be more compact
+ • Added new QS Header Date&Clock Style toggle (More notch friendly Clock style)
+ • Added Ability to Adjust Clock Sizes in QS Header and Statusbar Individually 
+ • Added new A12 offline charging style in source
+ • Added Screen off FOD
+ • Added drawables for "History" and "Clear all" action in Notification panel
+ • Added Shadow to the Battery meter percent in settings to make it more visible
+ • Nuke non working share button from recents
+ • Add new wallpapers, Thanks to Wallfever!
+ • Added new Headers
+ • Fix Kill App button in recents to make it actually kill apps
+ • Fixed ReTicker random UI restart
+ • Fixed stutters in QS Panel pull down
+ • Fixed SystemUI force close on Landscape mode with QS Media on 
+ • Fixed Active QS Tile color
+ • Fixed Broken Lockscreen charging animation
+ • Fixed crash on Applock due to FOD
+ • Fixed toggling Full Screen apps
+
+============================
 Corvus v16.7 - Obsidian
 ============================
 Merged android-11.0.0_r39 SP
