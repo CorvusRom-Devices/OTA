@@ -1,5 +1,16 @@
 {
-  "maintainer": "Trishiraj",
+  "codename":"phoenix",
+  "name":"Poco X2",
+  "version_codename":"Avalon",
+  "version":"16.8",
+  "maintainer":"Trishiraj",
+  "size":1420363719,
+  "datetime":1629282646,
+  "filehash":"f1d7a701a5fe4d4ed122ad14aac3e491",
+  "url":"https://www.pling.com/p/1396780",
+  "ota_vanilla":"https://ota.corvusrom.com/phoenix/vanilla/Corvus_v16.8-Avalon-phoenix-18082021-Official-1031.zip",
+  "ota_gapps":"https://ota.corvusrom.com/phoenix/gapps/Corvus_v16.8-Avalon-phoenix-Gapps-18082021-Official-0908.zip",
+  "group": "https://t.me/CorvusPhoenixX2",
   "support_url": "https://t.me/CorvusPhoenixX2",
   "download_url": "https://www.pling.com/p/1396780#files-panel"
 }
