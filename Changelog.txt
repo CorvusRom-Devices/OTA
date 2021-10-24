@@ -1,3 +1,59 @@
+=================================
+Corvus v17.0 - Vanguard
+=================================
+SYSTEM
+    Updated security patch to Android-11.0.0_r48
+    Rebased AV for devices with Audio/Video issues and extensive support
+    Rebased ART and Bionic for improved optimisation and benchmark performance
+    Added Full native ZygoteJustInTime Support (Perf)
+    Added EROFS support
+    Added extensive F2FS support
+    Updated Iorap and LMKD
+    Enabled Global ThinLTO (Perf)
+    Updated SQLite
+    Updated arm-optimized-routines
+    Switched to improved Jemalloc memory allocation
+    and many more tweaks and optimisation
+LAUNCHER
+    Added ability to adjust app drawer opacity
+    Added App drawer background blur
+    Added ability to adjust app icon size
+    Added ability to set bottom Google SearchBar
+    Added toggle to show Free RAM in Recents
+    Added ability to toggle Homescreen app dock background
+    Removed homescreen app dock bottom space
+    Redesigned Recent view action buttons
+SYSTEM UI
+    Nuked Reticker (Caused SystemUI restart)
+    New Brightness Slider Style Implementation
+    Added A12 style and Custom brightness slider style along with the default style
+    Added Color Coded battery level indication (Does not work with Portrait style)
+    Added QS Tile to trigger Corvus ZenMode
+    Fixed Long Press QS tile force close for CPU Info and FPS Info tile
+    Added intent to start Doze Settings on AOD Tile long click
+    Added ability to record longer videos (Screen Recorder)
+    Added ability to set low quality in screen recording
+    Added Blinking Dot overlay to stop recording
+    Added 5 variety of QS Tile tint style
+    Added ability to randomly choose System Accent color from Raven Themes
+    Added Ability to control QS Panel and Notification transparency
+    Made Improvements to the QS Panel Media player
+RAVENLAIR/SETTINGS
+    Re-Implemented Settings list bounce animation
+    Added New Gaming Mode in RavenLair->Miscellaneous->Gaming Mode
+    Removed overly used Lottie animations settings wide
+    Mini re-design of RavenLair
+    Nuked Full screen cutout (wasn't working)
+    Implemented Notch Killer overlay in Display Settings to extend apps beyond the notch
+    Added ability to toggle off Keyboard bottom space from Settings->System->Gestures->System navigation->IME button space
+    Added toggle for high touch sensitivity in Display settings
+    Added seekbar for Notification and QS Panel Transparency 
+GAMING MODE
+    Made UI improvements to Gaming Mode QS Tiles style
+    Added Ability to see RAM usage within the Gaming mode overlay
+    Redesigned Date and clock style and battery level in Gaming mode overlay
+    Slight changes to the Performance Seekbar
+
 ============================
 Corvus v16.8 - Avalon
 ============================
