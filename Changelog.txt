@@ -1,9 +1,6 @@
 =========================================
 Corvus vS2.1 - Revolt - A fresh new start
 =========================================
-Corvus OS S-2.1 - Revolt | Changelogs
-============================
-
 - Android release tag - Android-12.1.0_r4 (April 2022)
 
 Raven Launcher
