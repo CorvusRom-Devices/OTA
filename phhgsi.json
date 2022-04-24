@@ -1,5 +1,34 @@
 {
-  "maintainer": "RickyCheung",
-  "support_url": "https://t.me/CorvusGSI",
-  "download_url": "https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220423/"
+  "maintainer":"RickyCheung",
+  "support_url":"https://t.me/CorvusGSI",
+  "download_url":"https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220423/",
+  "version":"CorvusOS vS2.1 20220423",
+  "date":"1650692100",
+  "variants":[
+    {
+      "name":"corvus_treble_arm64_ab",
+      "size":872608788,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab-Beta-Official-2304.img.xz"
+    },
+    {
+      "name":"corvus_treble_arm64_ab-vndklite",
+      "size":839696616,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab_vndklite-Beta-Official-2304.img.xz"
+    },
+    {
+      "name":"corvus_treble_arm64_ab-Gapps",
+      "size":1358400400,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab-Gapps-Beta-Official-2304.img.xz"
+    },
+    {
+      "name":"corvus_treble_arm64_ab-Gapps-vndklite",
+      "size":1306171376,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab_vndklite-Gapps-Beta-Official-2304.img.xz"
+    },
+    {
+      "name":"useless",
+      "size":0,
+      "url":"http://devnull.org"
+    }
+  ]
 }
