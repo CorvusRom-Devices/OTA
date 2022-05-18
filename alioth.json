@@ -2,7 +2,7 @@
   "version_codename":"Revolt",
   "version":"3.0",
   "maintainer":"Trishiraj,RoXor",
-  "ota_vanilla":"",
-  "ota_gapps":"",
+  "ota_vanilla":"https://downloads.corvusrom.com/alioth/vanilla/Corvus_vS2.1-Revolt-alioth-Official-1521.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/alioth/gapps/Corvus_vS2.1-Revolt-alioth-Gapps-Official-1442.zip",
   "support_url": "https://t.me/corvusalioth"
 }
