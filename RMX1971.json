@@ -1,8 +1,8 @@
 {
-  "version_codename":"Revolt",
+  "version_codename":"Revenant",
   "version":"3.0",
   "maintainer":"KSSRAO",
-  "ota_vanilla":"",
-  "ota_gapps":"",
+  "ota_vanilla":"https://downloads.corvusrom.com/RMX1971/vanilla/Corvus_vS3.0-Revenant-RMX1971-Official-1321.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/RMX1971/gapps/Corvus_vS3.0-Revenant-RMX1971-Gapps-Official-1119.zip",
   "support_url": "https://t.me/CorvusRMX1971"
 }
