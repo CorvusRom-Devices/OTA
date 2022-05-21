@@ -1,3 +1,103 @@
+============================
+Corvus OS S-3.0 - Revenant 
+============================
+
+- Merged May 2022 Security Patch - android-12.1.0_r5
+- Revamped new M3 designed Wallpaper app (RavenWalls)*
+- Revamped new M3 designed Corvus support app + OTA (RavenDesk)*
+- Added new GameSpace from chaldeaprjkt*
+- Added system wide App Lock
+- Added Face Unlock
+- Fixup in PixelProps
+- Added Touch Gestures
+- Gamespace: Added toggle to disable gestures
+
+RavenLauncher
+- Changed search bar style
+- Fixed App icons getting cropped below search bar
+- Add toggle to set a translucent background to app dock in homescreen
+- Removed extra bottom space in app dock
+- Include toggle for enabling taskbar
+- Include toggle for enabling grid style recents
+- Implement ability to hide apps and open them without having to unhide again
+- Add bottomsheet app info style
+- Add support for custom icon pack and per-app icon pack
+- Redesign available RAM view
+- Import more themed icons
+- Re-organized custom settings
+- Add toggle to enable recent apps scrolling haptic feedback (applicable to devices with new haptic motors)
+- Follow system fonts through out the launcher settings
+
+Theming
+- Added Pavlova UI icon pack
+- Added ability to take white luminance to 0. This created pitch black theme with linear lightness enabled
+
+Settings
+- Redesigned corvus version bottom sheet panel
+- Revamped category style
+- Improvements to collapsing toolbar
+
+System
+- Added System wide blur support if blur is enabled
+- Increased blur radius to provide a better system blur effect
+- Disable wallpaper zoom effect
+- Ignore screen decorations in screenshot (screen radius does not appear in screenshots)
+- Implemented Kdragon’s blur implementation from A11 (Less aggressive with lossless quality)
+
+Statusbar
+- Fix wrong tinting of statusbar icons
+- Add toggle to show VoLTE icon
+- Add toggle to show 4G icon instead of LTE
+- Add toggle for small network icon
+- Add toggle for roaming indicator
+- Add toggle to disable data disabled icon
+- Add toggle for combined signal icon
+- privacy: Added toggle to disable location/camera privacy indicators
+- Ability to show notification count
+- Ability to toggle between colored statusbar app icons
+- Fixup! Color coded battery indicator to remain green from 100% as it remained white until the battery percent went below 85%
+- Add ability to block more statusbar icons from statusbar items
+
+Quick Settings
+- Ability to adjust panel opacity
+- Improvements to FPS info overlay
+
+Lockscreen
+- Make smartspace info to follow system fonts
+- Added support to show charging info
+- UDFPS: Added back icons/animation support
+- Added face unlock icon animation
+
+Notifications
+- Added Reticker and app colored reticker
+
+Sound
+- Ability to set increasing ring volume
+- Custom ringtone vibration pattern
+- Ability to control In-Call vibrations
+- Per-app volume control
+- Add option to cycle through ringer modes
+
+VolumePanel
+- Redesigned volume panel
+- Bring in expandable volume panel
+- Ability to adjust notification sounds
+- Added volume percentage text
+- Added config to switch volume panel location
+
+Display
+- Add option for forcing full screen apps
+
+- Fix slow fingerprint response
+- Address various system wide NPE and fixups
+- Added support for legacy WFD display options
+- Whitelist permissions and add permissions for device configs
+- Fix speech service force close in google setup wizard (GApps build)
+- Add signature spoofing
+- Add ability to select vulkan renderer in dev options
+- Source side addition for Sepolicy denials, HAL updates, Bluetooth and Wifi improvements
+- More miscellaneous improvements and fixes in source side
+
 =========================================
 Corvus vS2.1 - Revolt - A fresh new start
 =========================================
