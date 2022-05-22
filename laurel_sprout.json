@@ -2,7 +2,7 @@
   "version_codename":"Revenant",
   "version":"3.0",
   "maintainer":"H3M3L",
-  "ota_vanilla":"",
-  "ota_gapps":"",
+  "ota_vanilla":"https://downloads.corvusrom.com/laurel_sprout/vanilla/Corvus_vS3.0-Revenant-laurel_sprout-Official-1839.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/laurel_sprout/gapps/Corvus_vS3.0-Revenant-laurel_sprout-Gapps-Official-1814.zip",
   "support_url": "https://t.me/Corvus_laurel_sprout"
 }
