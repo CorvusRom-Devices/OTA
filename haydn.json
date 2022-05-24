@@ -1,0 +1,8 @@
+{
+  "version_codename":"Revenant",
+  "version":"3.0",
+  "maintainer":"Ritzzz",
+  "ota_vanilla":"https://downloads.corvusrom.com/haydn/vanilla/Corvus_vS3.0-Revenant-haydn-Official-2044.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/haydn/gapps/Corvus_vS3.0-Revenant-haydn-Gapps-Official-1940.zip",
+  "support_url": "https://t.me/CorvusHaydn"
+}
