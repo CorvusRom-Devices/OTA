@@ -1,5 +1,8 @@
 {
-  "maintainer": "TheSanty",
-  "support_url": "https://t.me/CorvusWhyred",
-  "download_url": "https://downloads.corvusrom.com/?dir=whyred"
+  "version_codename":"Revenant",
+  "version":"3.0",
+  "maintainer":"TheSanty",
+  "ota_vanilla":"https://download.corvusrom.com/whyred/vanilla/Corvus_vS3.0-Revenant-whyred-Official-1523.zip",
+  "ota_gapps":"https://download.corvusrom.com/whyred/gapps/Corvus_vS3.0-Revenant-whyred-Gapps-Official-1403.zip",
+  "support_url": "https://t.me/CorvusWhyred"
 }
