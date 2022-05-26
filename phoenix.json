@@ -1,16 +1,8 @@
 {
-  "codename":"phoenix",
-  "name":"Poco X2",
-  "version_codename":"Revolt",
-  "version":"S1.0",
-  "maintainer":"Trishiraj",
-  "size":1420363719,
-  "datetime":1629282646,
-  "filehash":"f1d7a701a5fe4d4ed122ad14aac3e491",
-  "url":"https://www.pling.com/p/1396780",
-  "ota_vanilla":"",
-  "ota_gapps":"",
-  "group": "https://t.me/CorvusPhoenixX2",
-  "support_url": "https://t.me/CorvusPhoenixX2",
-  "download_url": "https://www.pling.com/p/1396780#files-panel"
+  "version_codename":"Revenant",
+  "version":"3.0",
+  "maintainer":"Ankan005",
+  "ota_vanilla":"https://downloads.corvusrom.com/phoenix/vanilla/Corvus_vS3.0-Revenant-phoenix-official-0824.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/phoenix/gapps/Corvus_vS3.0-Revenant-phoenix-Gapps-official-0740.zip",
+  "support_url": "https://t.me/CorvusPhoenixX2"
 }
