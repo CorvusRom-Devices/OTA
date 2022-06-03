@@ -2,28 +2,28 @@
   "maintainer":"RickyCheung",
   "support_url":"https://t.me/CorvusGSI",
   "download_url":"https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220423/",
-  "version":"CorvusOS vS2.1 20220423",
-  "date":"1650692100",
+  "version":"CorvusOS vS2.1 20220603",
+  "date":"1654220000",
   "variants":[
     {
       "name":"corvus_treble_arm64_ab",
-      "size":872608788,
-      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab-Beta-Official-2304.img.xz"
+      "size":888727416,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab-Beta-Official-0800.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab-vndklite",
-      "size":839696616,
-      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab_vndklite-Beta-Official-2304.img.xz"
+      "size":859144456,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab_vndklite-Beta-Official-0800.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab-Gapps",
-      "size":1358400400,
-      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab-Gapps-Beta-Official-2304.img.xz"
+      "size":1334558136,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab-Gapps-Beta-Official-0800.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab-Gapps-vndklite",
-      "size":1306171376,
-      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220423/Corvus_vS2.1-Revolt-treble_arm64_ab_vndklite-Gapps-Beta-Official-2304.img.xz"
+      "size":1284038732,
+      "url":"http://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab_vndklite-Gapps-Beta-Official-0800.img.xz"
     },
     {
       "name":"useless",
