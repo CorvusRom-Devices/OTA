@@ -1,5 +1,41 @@
+=====================
+Corvus OS v3.1-Medusa
+=====================
+
+- Fixed white scrim in lockscreen during light mode
+- Fixed brightness slider being at higher values even when its set to low
+- Retain QS panel blur difference between Notification shade and QS Tiles background
+- Extend Custom fonts support to System wide apps
+- Re-designed Seekbars for a much sleek and thinner look
+- Re-designed CorvusZen to match AOSP clock style but with animations
+- Added feature to toggle statusbar clock background
+- Bring in Custom lockscreen clocks (More varieties to be added soon)
+- Added full extension of Music Visualiser customisation (Pulse) for lockscreen / Quick Settings
+- Added option to enable AOD while charging only
+- Added ability to toggle AOD type through AOD QS Tile
+- Added ability to Schedule AOD
+- Added Ambient notification pulse + customisation
+
+RavenLauncher
+- Reverted back to previous RAM usage design
+- Make the RAM usage text more readable
+- Added ability to toggle App drawer search bar
+- Adjust Blur radius to give more Gaussian blur effect
+
+Theming
+- Use AOSP monet's color generation
+
+Settings UI
+- Updated the looks of Tab indicators
+- Properly tint dashboard icons with accent color
+
+GameSpace
+- Show Time in game overlay
+- Show RAM usage in game overlay
+- Show device temperature in game overlay
+
 ============================
-Corvus OS S-3.0 - Revenant 
+Corvus OS 3.0 - Revenant 
 ============================
 
 - Merged May 2022 Security Patch - android-12.1.0_r5
