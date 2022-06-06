@@ -1,8 +1,8 @@
 {
-  "version_codename":"Revenant",
-  "version":"3.0",
+  "version_codename":"Medusa",
+  "version":"3.1",
   "maintainer": "Christopher Keith Irvine (MAdMiZ)",
   "support_url": "https://t.me/Corvusr5x",
-  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS3.0-Revenant-r5x-Official-2140.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS3.0-Revenant-r5x-Gapps-Official-1938.zip"
+  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS3.1-Medusa-r5x-Official-1011.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS3.1-Medusa-r5x-Gapps-Official-1049.zip"
 }
