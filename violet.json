@@ -1,5 +1,8 @@
 {
-  "maintainer": "Tamizh Arasan",
-  "support_url": "https://t.me/CorvusViolet",
-  "download_url": "https://www.pling.com/p/1372063#files-panel"
+  "version_codename":"Medusa",
+  "version":"3.1",
+  "maintainer":"TamizhArasan",
+  "ota_vanilla":"https://downloads.corvusrom.com/violet/vanilla/Corvus_vS3.1-Medusa-violet-Official-1018.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/violet/gapps/Corvus_vS3.1-Medusa-violet-Gapps-Official-0630.zip",
+  "support_url": "https://t.me/CorvusViolet"
 }
