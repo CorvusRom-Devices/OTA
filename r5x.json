@@ -1,8 +1,8 @@
 {
-  "version_codename":"Medusa",
-  "version":"3.1",
+  "version_codename":"Vindicate",
+  "version":"3.2",
   "maintainer": "Christopher Keith Irvine (MAdMiZ)",
   "support_url": "https://t.me/Corvusr5x",
-  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS3.1-Medusa-r5x-Official-1011.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS3.1-Medusa-r5x-Gapps-Official-1049.zip"
+  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS3.2-Vindicate-r5x-Official-1333.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS3.2-Vindicate-r5x-Gapps-Official-1429.zip"
 }
