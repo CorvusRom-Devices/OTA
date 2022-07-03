@@ -1,8 +1,8 @@
 {
-  "version_codename":"Medusa",
-  "version":"3.1",
+  "version_codename":"Vindicate",
+  "version":"3.2",
   "maintainer":"KSSRAO",
-  "ota_vanilla":"https://downloads.corvusrom.com/RMX1971/vanilla/Corvus_vS3.1-Medusa-RMX1971-Official-1442.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/RMX1971/gapps/Corvus_vS3.1-Medusa-RMX1971-Gapps-Official-1309.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/RMX1971/vanilla/Corvus_vS3.2-Vindicate-RMX1971-Official-1158.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/RMX1971/gapps/Corvus_vS3.2-Vindicate-RMX1971-Gapps-Official-0258.zip",
   "support_url": "https://t.me/CorvusRMX1971"
 }
