@@ -1,0 +1,8 @@
+{
+  "version_codename":"Vindicate",
+  "version":"3.2",
+  "maintainer": "KangMonkey",
+  "support_url": "https://t.me/corvusvayu",
+  "ota_vanilla":"https://downloads.corvusrom.com/vayu/vanilla/Corvus_vS3.2-Vindicate-vayu-Official-1129.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/vayu/gapps/Corvus_vS3.2-Vindicate-vayu-Gapps-Official-0331.zip"
+}
