@@ -1,3 +1,53 @@
+=========================
+Corvus OS v3.2- Vindicate
+=========================
+
+- Merged June Security patch android-12.1.0_r8
+- Huge backend changes in source (Art, Bionic, Libcore, Framework)
+- Updated camera/media codecs
+- Make full use of thin LTO
+- Reverted pop-up window blurs to bring back A12 animations
+- Enabled App compaction by default 
+- Added ability to restrict data in apps
+- Added ability to allow thethering to use VPN
+- Fixed VoLTE icon padding in statusbar
+- Redesigned bottom Lock Screen background
+- Changed Re-Ticker default color to match accent color
+- Adjusted colors for category titles
+- Adjusted color for QS Clock background color
+- Fixed MTK SMS bug
+- Added Battery indicator to GameSpace panel
+- Adjusted GameSpace overall layout
+- Added our modified version of PhotonCamera
+- Added support for more APN configs
+- Updated stock recovery
+- Added ability to resize statusbar clock
+- Unblock all statusbar icons and make them toggleable
+- Updated default wallpaper
+- Updated GMS and Pixel stuff with latest june dump
+- Use accent color for charging animation
+- Added ability to toggle between QS Panel Styles
+
+QS Clock
+- Re-align and style Clock-date view together
+- Added ability to resize QS clock
+
+Settings
+- Updated design in corvus version
+
+Vendor
+- Re-do Runtime configs
+
+QS Styles
+- Added option for Default, Rounded rectangle and outline styles
+- Revamped QS Tile ripple animation and made it more appealing
+
+Launcher
+- Added scale animation in recents scroll
+
+Vold
+- Added Patches for FDE
+
 =====================
 Corvus OS v3.1-Medusa
 =====================
