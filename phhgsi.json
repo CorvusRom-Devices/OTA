@@ -1,29 +1,39 @@
 {
   "maintainer":"RickyCheung",
   "support_url":"https://t.me/CorvusGSI",
-  "download_url":"https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220603/",
-  "version":"CorvusOS vS3.0 20220603",
-  "date":"1654220000",
+  "download_url":"https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/",
+  "version":"CorvusOS vS3.2 20220709",
+  "date":"1657413700",
   "variants":[
     {
       "name":"corvus_treble_arm64_ab",
-      "size":888727416,
-      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab-Beta-Official-0800.img.xz"
+      "size":816515864,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab-Official-13150907.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab_vndklite",
-      "size":859144456,
-      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab_vndklite-Beta-Official-0800.img.xz"
+      "size":786258032,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab_vndklite-Official-13150907.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab-Gapps",
-      "size":1334558136,
-      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab-Gapps-Beta-Official-0800.img.xz"
+      "size":1291948188,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab-Gapps-Official-00521007.img.xz"
     },
     {
       "name":"corvus_treble_arm64_ab_vndklite-Gapps",
-      "size":1284038732,
-      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Beta/20220603/Corvus_vS3.0-Revenant-treble_arm64_ab_vndklite-Gapps-Beta-Official-0800.img.xz"
+      "size":1244010996,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab_vndklite-Gapps-Official-00521007.img.xz"
+    },
+    {
+      "name":"corvus_treble_arm64_ab-Slim-Gapps",
+      "size":905976260,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab-Slim-Gapps-Official-15290907.img.xz"
+    },
+    {
+      "name":"corvus_treble_arm64_ab_vndklite-Slim-Gapps",
+      "size":871727716,
+      "url":"https://downloads.sourceforge.net/project/tipzbuilds/GSIs/CorvusROM/Official/20220709/Corvus_vS3.2-Vindicate-treble_arm64_ab_vndklite-Slim-Gapps-Official-15290907.img.xz"
     },
     {
       "name":"useless",
