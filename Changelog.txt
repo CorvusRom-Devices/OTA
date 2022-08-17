@@ -1,3 +1,121 @@
+======================================
+Corvus OS v4.0- Leviathan | Changelogs
+======================================
+
+Patch - July - android-12.1.0_r22 | Bumped security string to August
+
+Fixes
+- Fixed multiple random app crashes (FB, Reddit etc) Thanks to @nift4 for spotting the issue
+- Fixed banking app crashes
+- Fixed decryption in recovery
+- Fixed broken battery icon on "Filled" icon pack
+- Fixed toggle torch when screen off
+- Fixed setting developer QS Tiles
+- Fixed setting custom picture on multi-user setting
+- Fixed QS Panel interaction lag
+- Fixed mono QS tile active state toggle
+- Fixed Reboot QS tile
+- Fixed Volume rocker skip track
+- Addressed camera app crashes/Glitches for few devices
+- Fixed media output selector crash from volume panel
+- Fixed support for QTI bluetooth
+- Fixed missing vibrate icon from statusbar
+- Fixed long booting time
+- Fixed Lockscreen clock center alignment
+- Fixed Custom clock in AOD
+- Fixed Lockscreen bottom shortcuts
+- Fixed landscape icon with battery saver glitch
+- Fixed colors pf inactive volume panel bars
+- Fixed ability to display 4G and VoLTE icon together
+- More miscellaneous fixes and improvements
+
+Source Fixes
+- Fixed ability to build PhotonCamera
+- Fixed requiring to lunch twice
+- Rebased Art, bionic, Av, Native, Core repos
+- Switched to Jemalloc mem
+- Added support for Lahaina
+- Restore Legacy support for few devices
+
+System UI 
+- Added new QS Translucent accent style inspired by Fluid
+- Reworked QS Outline style to be truly outlined style
+- Added new random colored QS Tile style
+- Added new detailed data usage panel in expanded QS Panel
+- Added QS Weather and customisation (Omni Jaws)
+- Optimize Download animations
+- Optimize responsiveness and speed up ui animations
+- Fix QS mobile icon disappearing on theme switch
+- Hide lockscreen media art if nothing is playing
+- Add support for strict standby policy
+- Remove shadows from Lockscreen textviews
+- Choose AOSP color seed generation
+- Replace lockscreen lock icon with two-tone icon
+- Redesign QS Media player
+- QS Media player customisation
+- Added QS Media player vinyl style animation (Alpha implimentation)
+- Partially add blurred dialogs back for the ones that don't affect A12 animations
+- Added ability to limit lower refresh rate in AOD
+- Allow to skip 3 seconds timer in screen recorder
+- Added Lockscreen media art and blur customisation
+- Updated pixel props
+- Added Notch bar killer overlay
+- Added QS Tiles column customisation
+- Added ability to hide tile labels
+- Added ability to Align qs tile content vertically
+- Re-do system wide fonts implementation
+- Added user selectable VoLTE styles
+- Added user selectable VoWifi styles
+- Revert back to old clock/date style
+- Reduced statusbar clock pill paddings
+- Adapt lockscreen bottom shortcuts to Light/Dark theme
+- Make notification count badge more compact and visible
+
+Settings
+- New redesigned settings dashboard
+- Redesigned battery usage bar with animation
+- Redesigned storage usage bar with animation
+- Added Wifi-hotspot settings
+- Added Bluetooth timeout settings
+- Added Wifi timeout settings
+- Added ability to forward vpn through hotspot
+- Make HWUI renderer persistent
+- Added android 12L easter egg
+- Switched android version to 12L in firmware version
+- Added support for application downgrade
+- Added support for strict standby policy
+- Added background freezer
+- Added smart charging
+- Added preference to open battery optimization page from battery settings
+- Added ability to ignore window secure flags
+- Added multiple pre-installed weather icon packs
+- Added user configurable fingerprint wake-and-unlock
+
+Raven Launcher
+- Added Quick space with Date & Time and Quotes (At-a-Glance)
+- Added Weather view to QuickSpace (At-a-Glance)
+- Added ability to set app drawer row height
+- Added extra hotseat grids (4x4 - 6x10)
+- Added themed icons from @modulesrepo
+- Added blur changes to launcher
+- Adjust app icon sizes based on the grid sizes
+- Fixed wrong RAM usage text colors
+- Added ability to change recents and app drawer background opacity
+- Added A12 designed custom weather widget (Omni Jaws)
+
+GameSpace
+- Redesigned tiles to look like QS Tiles
+- Added Ability to show currently playing game
+- Added estimated game time for currently playing game
+- Added ability to disable USB debugging
+- Added modified ringer mode
+
+Theming
+- Added new selective signal icon packs
+- Added new fonts
+- Added pitch black theme
+- Added ability to pick wallpaper colors
+
 =========================
 Corvus OS v3.2- Vindicate
 =========================
