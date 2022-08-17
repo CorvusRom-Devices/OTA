@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
+  "version_codename":"Leviathan",
+  "version":"4.0",
   "maintainer":"Ankan005",
-  "ota_vanilla":"https://downloads.corvusrom.com/phoenix/vanilla/Corvus_vS3.2-Vindicate-phoenix-Official-0214.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/phoenix/gapps/Corvus_vS3.2-Vindicate-phoenix-Gapps-Official-0811.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/phoenix/vanilla/Corvus_vS4.0-Leviathan-phoenix-Official-1201.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/phoenix/gapps/Corvus_vS4.0-Leviathan-phoenix-Gapps-Official-1251.zip",
   "support_url": "https://t.me/CorvusPhoenixX2"
 }
