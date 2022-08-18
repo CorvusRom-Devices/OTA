@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
+  "version_codename":"Leviathan",
+  "version":"4.0",
   "maintainer":"Ajit",
-  "ota_gapps":"https://downloads.corvusrom.com/sweet/gapps/Corvus_vS3.2-Vindicate-sweet-Gapps-Official-0610.zip",
-  "ota_vanilla":"https://downloads.corvusrom.com/sweet/vanilla/Corvus_vS3.2-Vindicate-sweet-Official-0802.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/sweet/gapps/Corvus_vS4.0-Leviathan-sweet-Gapps-Official-0747.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/sweet/vanilla/Corvus_vS4.0-Leviathan-sweet-Official-0852.zip",
   "support_url": "https://t.me/CorvusSweet"
 }
