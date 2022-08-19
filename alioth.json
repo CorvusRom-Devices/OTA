@@ -1,8 +1,8 @@
 {
-  "version_codename":"Revenant",
-  "version":"3.2",
+  "version_codename":"Leviathan",
+  "version":"4.0",
   "maintainer":"Trishiraj,Roxor-007",
-  "ota_vanilla":"https://download.corvusrom.com/alioth/vanilla/Corvus_vS3.2-Vindicate-alioth-Official-1909.zip",
-  "ota_gapps":"https://download.corvusrom.com/alioth/gapps/Corvus_vS3.2-Vindicate-alioth-Gapps-Official-1723.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/alioth/vanilla/Corvus_vS4.0-Leviathan-alioth-Official-1538.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/alioth/gapps/Corvus_vS4.0-Leviathan-alioth-Gapps-Official-1619.zip",
   "support_url": "https://t.me/corvusalioth"
 }
