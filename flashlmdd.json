@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
+  "version_codename":"Leviathan",
+  "version":"4.0",
   "maintainer": "AnhTran",
   "support_url": "https://t.me/CorvusFlashlmdd",
-  "ota_vanilla":"https://downloads.corvusrom.com/flashlmdd/vanilla/Corvus_vS3.2-Vindicate-flashlmdd-Official-1617.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/flashlmdd/gapps/Corvus_vS3.2-Vindicate-flashlmdd-Gapps-Official-1820.zip"
+  "ota_vanilla":"https://downloads.corvusrom.com/flashlmdd/vanilla/Corvus_vS4.0-Leviathan-flashlmdd-Official-2101.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/flashlmdd/gapps/Corvus_vS4.0-Leviathan-flashlmdd-Gapps-Official-2008.zip"
 }
