@@ -1,13 +1,13 @@
 {
-  "version_codename":"Medusa", 
+  "version_codename":"Leviathan", 
 
-   "version":"3.1", 
+   "version":"4.0", 
 
    "maintainer":"Meghthedev", 
 
-   "ota_vanilla":"https://downloads.corvusrom.com/cph1859/vanilla/Corvus_vS3.1-Medusa-CPH1859-Official-0919.zip", 
+   "ota_vanilla":"https://downloads.corvusrom.com/cph1859/vanilla/Corvus_vS4.0-Leviathan-CPH1859-Official-1056.zip", 
 
-   "ota_gapps":"https://downloads.corvusrom.com/cph1859/gapps/Corvus_vS3.1-Medusa-CPH1859-Gapps-Official-0444.zip", 
+   "ota_gapps":"https://downloads.corvusrom.com/cph1859/gapps/Corvus_vS4.0-Leviathan-CPH1859-Gapps-Official-0203.zip", 
 
    "support_url": "https://t.me/corvusCPH1859" 
 
