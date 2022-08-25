@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
-  "maintainer": "Kader Bava",
-  "ota_vanilla":"https://downloads.corvusrom.com/rmx1921/vanilla/Corvus_vS3.2-Vindicate-RMX1921-Official-1740.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/rmx1921/gapps/Corvus_vS3.2-Vindicate-RMX1921-Gapps-Official-2209.zip",
+  "version_codename":"Leviathan",
+  "version":"4.0",
+  "maintainer": "KaderBava",
+  "ota_vanilla":"https://downloads.corvusrom.com/rmx1921/vanilla/Corvus_vS4.0-Leviathan-RMX1921-Official-0943.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/rmx1921/gapps/Corvus_vS4.0-Leviathan-RMX1921-Gapps-Official-0901.zip",
   "support_url": "https://t.me/CorvusRMX1921"
 }
