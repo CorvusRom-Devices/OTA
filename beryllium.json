@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
-  "maintainer":"𝙉𝙚𝙭𝙪𝙨",
-  "ota_vanilla":"https://downloads.corvusrom.com/beryllium/vanilla/Corvus_vS3.2-Vindicate-beryllium-Official-0916.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/beryllium/gapps/Corvus_vS3.2-Vindicate-beryllium-Official-0849.zip",
+  "version_codename":"Leviathan",
+  "version":"4.0",
+  "maintainer":"Cruzer",
+  "ota_vanilla":"https://downloads.corvusrom.com/beryllium/vanilla/Corvus_vS4.0-Leviathan-beryllium-Official-1835.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/beryllium/gapps/Corvus_vS4.0-Leviathan-beryllium-Gapps-Official-1039.zip",
   "support_url": "https://t.me/CorvusBeryllium"
 }
