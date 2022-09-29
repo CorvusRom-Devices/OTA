@@ -1,8 +1,8 @@
 {
-  "version_codename":"Vindicate",
-  "version":"3.2",
-  "maintainer":"TamizhArasan",
-  "ota_vanilla":"https://downloads.corvusrom.com/violet/vanilla/Corvus_vS3.2-Vindicate-violet-Official-1056.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/violet/gapps/Corvus_vS3.2-Vindicate-violet-Gapps-Official-0827.zip",
+  "version_codename":"El-Dorado",
+  "version":"5.0",
+  "maintainer":"TamizhArasan_RDX55",
+  "ota_vanilla":"https://downloads.corvusrom.com/violet/vanilla/Corvus_vT5.0-El-Dorado-violet-Official-1536.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/violet/gapps/Corvus_vT5.0-El-Dorado-violet-Gapps-Official-1456.zip",
   "support_url": "https://t.me/CorvusViolet"
 }
