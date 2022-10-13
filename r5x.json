@@ -1,8 +1,8 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"El-Dorado",
+  "version":"5.0",
   "maintainer": "Christopher Keith Irvine (MAdMiZ)",
   "support_url": "https://t.me/Corvusr5x",
-  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS4.0-Leviathan-r5x-Official-1003.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS4.0-Leviathan-r5x-Gapps-Official-2045.zip"
+  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vT5.0-El-Dorado-r5x-Official-1813.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vT5.0-El-Dorado-r5x-Gapps-Official-1055.zip"
 }
