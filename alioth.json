@@ -1,8 +1,7 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"Eclipse",
+  "version":"4.1",
   "maintainer":"Trishiraj,Roxor-007",
-  "ota_vanilla":"https://downloads.corvusrom.com/alioth/vanilla/Corvus_vS4.0-Leviathan-alioth-Official-1538.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/alioth/gapps/Corvus_vS4.0-Leviathan-alioth-Gapps-Official-1619.zip",
+  "ota_gapps":"https://download.corvusrom.com/alioth/gapps/Corvus_vS4.1-Eclipse-alioth-Gapps-Official-1932.zip",
   "support_url": "https://t.me/corvusalioth"
 }
