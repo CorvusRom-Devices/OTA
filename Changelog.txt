@@ -1,3 +1,47 @@
+===========================================
+Corvus OS v4.1- Eclipse [EOL] | Changelogs
+===========================================
+System UI
+- Added fingerprint vibration
+- Added toggle for new reTicker style (Dynamic island animation)
+- Added toggle for OneUI animation reTicker
+- Added toggle for adjusting screen brightness through volume panel
+- Toggle to set Volume panel position
+- Vertically aligned QS Clock style
+- Enabled System wide -O3 optimization
+- Added toggle for Double tap to trigger Doze
+- Fixed custom Lockscreen clock time freeze bug
+- Added Analog and Bubble AOSP lockscreen clocks
+- Added Pixel Quick Tap (Columbus) in gestures
+- Added Elmyra squeeze action for pixel devices
+- Added Google now icon pack as default for QS Weather
+- Patches for zygote fixes
+- Patches for bootanimation fixes
+- Improvements to SystemUI Blur
+
+Settings
+- Added toggle to switch between AOSP and Pixel style battery graph
+- Switched to AOSP settings dashboard avatar implementation
+- Expose radio info in about phone
+- Added ability to disable auth riple effect
+- Added 7 new dashboard icon styles
+- Battery usage graph design improvements
+- Added newly designed battery health section
+- Replaced drow down preferences with list preferences
+
+Launcher
+- Added Google now icon pack as default for Quick space weather info
+- Added toggle to enable pixel launcher style at-a-glance
+- Re-designed Quick search bar based on #TeamFiles implementation
+- Fixed issue of adaptive icon shape in launcher icons
+- Re-implemented icon pack selection
+- Fix themed icons for Calendar and Clock app
+- Add Day/Night support for app dock background
+- Try and fix wrong time based message from quick space
+    
+GameSpace
+- Added Blur to game overlay
+    
 ======================================
 Corvus OS v4.0- Leviathan | Changelogs
 ======================================
