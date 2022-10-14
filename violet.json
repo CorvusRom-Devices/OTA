@@ -1,8 +1,8 @@
 {
-  "version_codename":"El-Dorado",
-  "version":"5.0",
+  "version_codename":"Eclipse",
+  "version":"4.1",
   "maintainer":"TamizhArasan_RDX55",
-  "ota_vanilla":"https://downloads.corvusrom.com/violet/vanilla/Corvus_vT5.0-El-Dorado-violet-Official-1536.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/violet/gapps/Corvus_vT5.0-El-Dorado-violet-Gapps-Official-1456.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/violet/vanilla/Corvus_vS4.1-Eclipse-violet-Official-1009.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/violet/gapps/Corvus_vS4.1-Eclipse-violet-Gapps-Official-0424.zip",
   "support_url": "https://t.me/CorvusViolet"
 }
