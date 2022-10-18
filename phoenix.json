@@ -1,8 +1,8 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"El-Dorado",
+  "version":"5.0",
   "maintainer":"Ankan005",
-  "ota_vanilla":"https://downloads.corvusrom.com/phoenix/vanilla/Corvus_vS4.0-Leviathan-phoenix-Official-1201.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/phoenix/gapps/Corvus_vS4.0-Leviathan-phoenix-Gapps-Official-1251.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/phoenix/vanilla/Corvus_vT5.0-El-Dorado-phoenix-Official-0739.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/phoenix/gapps/Corvus_vT5.0-El-Dorado-phoenix-Gapps-Official-0610.zip",
   "support_url": "https://t.me/CorvusPhoenixX2"
 }
