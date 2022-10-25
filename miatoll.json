@@ -1,8 +1,8 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"Eclipse",
+  "version":"4.1",
   "maintainer":"Manavjit Singh",
   "ota_vanilla":"",
-  "ota_gapps":"https://downloads.corvusrom.com/miatoll/gapps/Corvus_vS4.0-Leviathan-miatoll-Gapps-Official-1521.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/miatoll/gapps/Corvus_vS4.1-Eclipse-miatoll-Gapps-Official-0511.zip",
   "support_url": "https://t.me/CorvusOSMiatoll"
 }
