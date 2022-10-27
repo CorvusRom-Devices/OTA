@@ -1,8 +1,8 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"Eclipse",
+  "version":"4.1",
   "maintainer":"Cruzer",
-  "ota_vanilla":"https://downloads.corvusrom.com/beryllium/vanilla/Corvus_vS4.0-Leviathan-beryllium-Official-1835.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/beryllium/gapps/Corvus_vS4.0-Leviathan-beryllium-Gapps-Official-1039.zip",
+  "ota_vanilla":"",
+  "ota_gapps":"https://downloads.corvusrom.com/beryllium/gapps/Corvus_vS4.1-Eclipse-beryllium-Gapps-Official-1303.zip",
   "support_url": "https://t.me/CorvusBeryllium"
 }
