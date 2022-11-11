@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer":"Ritzzz",
   "ota_vanilla":"",
-  "ota_gapps":"https://downloads.corvusrom.com/munch/gapps/Corvus_vS4.1-Eclipse-munch-Gapps-Official-0653.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/munch/gapps/Corvus_vT5.1-DejaVu-munch-Gapps-Official-0910.zip",
   "support_url": "https://t.me/CorvusMunch"
 }
