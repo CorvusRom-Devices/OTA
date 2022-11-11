@@ -1,8 +1,7 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer": "Christopher Keith Irvine (MAdMiZ)",
   "support_url": "https://t.me/Corvusr5x",
-  "ota_vanilla":"https://downloads.corvusrom.com/r5x/vanilla/Corvus_vS4.1-Eclipse-r5x-Official-2040.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vS4.1-Eclipse-r5x-Gapps-Official-2108.zip"
+  "ota_gapps":"https://downloads.corvusrom.com/r5x/gapps/Corvus_vT5.1-DejaVu-r5x-Gapps-Official-1632.zip"
 }
