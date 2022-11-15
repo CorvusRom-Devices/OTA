@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer":"Meghthedev",
-  "ota_vanilla":"https://downloads.corvusrom.com/tissot/vanilla/Corvus_vS4.1-Eclipse-tissot-Official-1259.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/tissot/gapps/Corvus_vS4.1-Eclipse-tissot-Gapps-Official-1045.zip",
+  "ota_vanilla":"",
+  "ota_gapps":"https://downloads.corvusrom.com/tissot/gapps/Corvus_vT5.1-DejaVu-tissot-Gapps-Official-1032.zip",
   "support_url": "https://t.me/corvustissot"
 }
