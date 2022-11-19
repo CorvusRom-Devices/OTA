@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer":"Trishiraj,Roxor-007",
-  "ota_gapps":"https://download.corvusrom.com/alioth/gapps/Corvus_vS4.1-Eclipse-alioth-Gapps-Official-2044.zip",
+  "ota_gapps":"https://download.corvusrom.com/alioth/gapps/Corvus_vT5.1-DejaVu-alioth-Gapps-Official-1948.zip",
   "ota_vanilla":"",
   "support_url": "https://t.me/corvusalioth"
 }
