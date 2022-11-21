@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer":"PAiN",
-  "ota_vanilla":"https://downloads.corvusrom.com/RM6785/vanilla/Corvus_vS4.1-Eclipse-RM6785-Official-1404.zip",
-  "ota_gapps":"https://downloads.corvusrom.com/RM6785/gapps/Corvus_vS4.1-Eclipse-RM6785-Gapps-Official-1303.zip",
+  "ota_vanilla":"https://downloads.corvusrom.com/RM6785/vanilla/Corvus_vT5.1-DejaVu-RM6785-Official-1543.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/RM6785/gapps/Corvus_vT5.1-DejaVu-RM6785-Gapps-Official-1851.zip",
   "support_url": "https://t.me/CorvusRM6785"
 }
