@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer":"ΛＲＣＨＩＴΣＣＴツ[@SageOfD6Path]",
-  "ota_gapps":"https://download.corvusrom.com/raphael/gapps/Corvus_vS4.1-Eclipse-raphael-Gapps-Official-1130.zip",
+  "ota_gapps":"https://download.corvusrom.com/raphael/gapps/Corvus_vT5.1-DejaVu-raphael-Gapps-Official-1100.zip",
   "ota_vanilla": "",
   "support_url": "https://t.me/CorvusRaphael"
  }
