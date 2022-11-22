@@ -1,8 +1,8 @@
 {
-  "version_codename":"Eclipse",
-  "version":"4.1",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer": "KaderBava",
   "ota_vanilla":"",
-  "ota_gapps":"https://downloads.corvusrom.com/rmx1921/gapps/Corvus_vS4.1-Eclipse-RMX1921-Gapps-Official-2253.zip",
+  "ota_gapps":"https://downloads.corvusrom.com/rmx1921/gapps/Corvus_vT5.1-DejaVu-RMX1921-Gapps-Official-1825.zip",
   "support_url": "https://t.me/CorvusRMX1921"
 }
