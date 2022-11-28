@@ -1,8 +1,8 @@
 {
-  "version_codename":"Leviathan",
-  "version":"4.0",
+  "version_codename":"DejaVu",
+  "version":"5.1",
   "maintainer": "EinarG",
   "support_url": "https://t.me/corvuszippo",
   "ota_vanilla":"",
-  "ota_gapps":"https://downloads.corvusrom.com/zippo/gapps/Corvus_vS4.0-Leviathan-zippo-Gapps-Official-0618.zip"
+  "ota_gapps":"https://downloads.corvusrom.com/zippo/gapps/Corvus_vT5.1-DejaVu-zippo-Gapps-Official-1208.zip"
 }
